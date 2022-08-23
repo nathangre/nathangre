@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathangre
 - 👀 I’m interested in Inflammatory Bowel Diseases and Gut Microbiota
-- 🌱 I’m currently learning Metagenomic
+- 🌱 I’m currently learning metagenome analysis of gut microbiota
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: nathan_grellier@yahoo.fr
